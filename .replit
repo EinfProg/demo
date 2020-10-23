@@ -1,0 +1,2 @@
+language = "c"
+run = "gcc hello_world.c -o hello; ./hello"
